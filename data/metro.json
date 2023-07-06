@@ -1,0 +1,31 @@
+[{ "id": "1", "desc": "KTM Seremban Line", "type": "metro", "route_color": "1964b8" },
+{
+  "id": "2",
+  "desc": "KTM Port Klang Line",
+  "type": "metro",
+  "route_color": "dc2420"
+},
+{ "id": "3", "desc": "LRT Ampang Line", "type": "metro", "route_color": "fe8e11" },
+{
+  "id": "4",
+  "desc": "LRT Sri Petaling Line",
+  "type": "metro",
+  "route_color": "721322"
+},
+{
+  "id": "5",
+  "desc": "LRT Kelana Jaya Line",
+  "type": "metro",
+  "route_color": "e1115f"
+},
+{ "id": "6", "desc": "KLIA Ekspress", "type": "metro", "route_color": "8c238f" },
+{ "id": "7", "desc": "KLIA Transit", "type": "metro", "route_color": "33a8b5" },
+{ "id": "8", "desc": "KL Monorail", "type": "metro", "route_color": "7dbb00" },
+{ "id": "9", "desc": "MRT Kajang Line", "type": "metro", "route_color": "11753b" },
+{
+  "id": "12",
+  "desc": "MRT Putrajaya Line",
+  "type": "metro",
+  "route_color": "faca04"
+},
+{ "id": "B1", "desc": "BRT Sunway Line", "type": "bus", "route_color": "1e4e2b" }]
